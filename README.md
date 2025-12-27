@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./final banner.png" alt="Banner" />
+  <img src="./github.png" alt="Banner" />
 </div>
 
 <h1 align="center">Rian Hasan Siam</h1>
