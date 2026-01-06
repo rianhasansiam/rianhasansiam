@@ -85,12 +85,18 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rianhasansiam&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rianhasansiam&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <a href="https://github.com/rianhasansiam">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rianhasansiam&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rianhasansiam">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rianhasansiam&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianhasansiam&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <a href="https://github.com/rianhasansiam">
+    <img src="https://streak-stats.demolab.com?user=rianhasansiam&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
+  </a>
 </div>
 
 
