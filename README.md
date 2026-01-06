@@ -89,7 +89,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rianhasansiam&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/rianhasansiam">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rianhasansiam&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rianhasansiam&layout=compact&langs_count=8&theme=dracula&hide_border=false&hide=c" height="180" alt="Top Languages" />
   </a>
 </div>
 
