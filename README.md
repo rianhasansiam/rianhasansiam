@@ -95,7 +95,7 @@
 
 <div align="center">
   <a href="https://github.com/rianhasansiam">
-    <img src="https://streak-stats.demolab.com?user=rianhasansiam&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rianhasansiam&theme=dracula" alt="GitHub Profile Summary" />
   </a>
 </div>
 
